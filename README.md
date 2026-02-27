@@ -141,8 +141,9 @@
     
 Dockerfile
 
-Конфигурации экспериментов
+Конфигурации экспериментов - experiments.ipynb
 
 Скрипты
 
-Ссылки на репозиторий
+Ссылки на репозиторий:
+[experiments.ipynb](https://github.com/Lemekhova/msc-lemekhova/blob/main/experiments.ipynb)

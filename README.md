@@ -100,4 +100,4 @@
 
 
 Ссылки на репозиторий:
-[experiments.ipynb](https://github.com/Lemekhova/msc-lemekhova/blob/main/experiments.ipynb)
+[experiments.ipynb]([https://github.com/Lemekhova/msc-lemekhova/blob/main/experiments.ipynb](https://github.com/Lemekhova/msc-lemekhova/blob/main/analitics.ipynb))

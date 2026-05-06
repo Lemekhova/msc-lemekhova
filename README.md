@@ -102,4 +102,4 @@
 Ссылка на гипотезы и аналитику:
 [analitics.ipynb](https://github.com/Lemekhova/msc-lemekhova/blob/main/analitics.ipynb)
 Ссылка на код реализации методов:
-[analitics.ipynb](https://github.com/Lemekhova/msc-lemekhova/blob/main/analitics.ipynb)
+[Exp_AG_qw3.ipynb](https://github.com/Lemekhova/msc-lemekhova/blob/main/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Qwen3_AG_news/Exp_AG_qw3.ipynb)

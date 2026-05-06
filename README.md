@@ -99,5 +99,7 @@
 8. Заключение	45
 
 
-Ссылки на репозиторий:
+Ссылка на гипотезы и аналитику:
+[analitics.ipynb](https://github.com/Lemekhova/msc-lemekhova/blob/main/analitics.ipynb)
+Ссылка на код реализации методов:
 [analitics.ipynb](https://github.com/Lemekhova/msc-lemekhova/blob/main/analitics.ipynb)

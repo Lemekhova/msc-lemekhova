@@ -1,4 +1,4 @@
-Тема ВКР: Исследование методов эффективного применения адаптеров (LoRA)  для дообучения моделей в условиях ограниченных вычислительных ресурсов
+**Тема ВКР: Исследование методов эффективного применения адаптеров (LoRA)  для дообучения моделей в условиях ограниченных вычислительных ресурсов**
 
 Описание структуры репозитория:
 
@@ -24,19 +24,19 @@
     
 [Папка «Реализация методов»](https://github.com/Lemekhova/msc-lemekhova/tree/main/%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%B2): 
 
- • [methods.ipynb] – реализация методов Baseline, LoRA, QLoRA, OrthoGeoLoRA
+ • [methods.ipynb](https://github.com/Lemekhova/msc-lemekhova/blob/main/%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%B2/methods.ipynb) – реализация методов Baseline, LoRA, QLoRA, OrthoGeoLoRA
     
 [Папка «Экперименты»](https://github.com/Lemekhova/msc-lemekhova/tree/main/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D1%8B): 
 
- • [Qwen2_AG_news_EN] – эксперименты для Qwen2.5-1.5 и датасета AG_news
+ • [Qwen2_AG_news_EN](https://github.com/Lemekhova/msc-lemekhova/tree/main/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Qwen2_AG_news_EN) – эксперименты для Qwen2.5-1.5 и датасета AG_news
     
- • [Qwen2_PD_news_RU] – эксперименты для Qwen2.5-1.5 и датасета на русском
+ • [Qwen2_PD_news_RU](https://github.com/Lemekhova/msc-lemekhova/tree/main/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Qwen2_PD_news_RU) – эксперименты для Qwen2.5-1.5 и датасета на русском
     
- • [Qwen3_AG_news_EN] – эксперименты для Qwen3-0.6 и датасета AG_news
+ • [Qwen3_AG_news_EN](https://github.com/Lemekhova/msc-lemekhova/tree/main/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Qwen3_AG_news_EN) – эксперименты для Qwen3-0.6 и датасета AG_news
     
- • [Qwen3_PD_news_RU] – эксперименты для Qwen3-0.6 и датасета на русском
+ • [Qwen3_PD_news_RU](https://github.com/Lemekhova/msc-lemekhova/tree/main/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Qwen3_PD_news_RU) – эксперименты для Qwen3-0.6 и датасета на русском
     
- • [all_exp_results.csv] – сводные результаты всех экспериментов
+ • [all_exp_results.csv](https://github.com/Lemekhova/msc-lemekhova/blob/main/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/all_exp_results.csv) – сводные результаты всех экспериментов
     
 [Файл ВКР.pdf](https://github.com/Lemekhova/msc-lemekhova/blob/main/%D0%92%D0%9A%D0%A0.pdf) – выпускная квалификационная работа
 

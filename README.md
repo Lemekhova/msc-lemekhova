@@ -2,7 +2,7 @@
 
 Описание структуры репозитория:
 
-•	[Папка «Анализ и гипотезы»](https://github.com/Lemekhova/msc-lemekhova/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D1%8B) : 
+•	[Папка «Анализ и гипотезы»](https://github.com/Lemekhova/msc-lemekhova/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D1%8B)
 
     [Notebooks](https://github.com/Lemekhova/msc-lemekhova/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D1%8B/Notebooks): 
     

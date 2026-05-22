@@ -1,6 +1,10 @@
 **Тема ВКР: Исследование методов эффективного применения адаптеров (LoRA)  для дообучения моделей в условиях ограниченных вычислительных ресурсов**
 
 Описание структуры репозитория:
+    
+[Файл ВКР.pdf](https://github.com/Lemekhova/msc-lemekhova/blob/main/%D0%92%D0%9A%D0%A0.pdf) – выпускная квалификационная работа
+
+[Файл Презентация.pdf](https://github.com/Lemekhova/msc-lemekhova/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pdf) – защитная презентация
 
 [Папка «Анализ и гипотезы»](https://github.com/Lemekhova/msc-lemekhova/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D1%8B):
 
@@ -37,8 +41,4 @@
  • [Qwen3_PD_news_RU](https://github.com/Lemekhova/msc-lemekhova/tree/main/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Qwen3_PD_news_RU) – эксперименты для Qwen3-0.6 и датасета на русском
     
  • [all_exp_results.csv](https://github.com/Lemekhova/msc-lemekhova/blob/main/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/all_exp_results.csv) – сводные результаты всех экспериментов
-    
-[Файл ВКР.pdf](https://github.com/Lemekhova/msc-lemekhova/blob/main/%D0%92%D0%9A%D0%A0.pdf) – выпускная квалификационная работа
-
-[Файл Презентация.pdf](https://github.com/Lemekhova/msc-lemekhova/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pdf) – защитная презентация
 
